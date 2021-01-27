@@ -1,0 +1,2 @@
+# tasteSQL
+Harvard seminar SQL
